@@ -329,7 +329,7 @@ function Projects() {
     {
       img: null,
       title: "Atlas Two",
-      desc: "1/10 scale autonomous vehicle with LIDAR, camera, and ROS 2 navigation stack for indoor track racing.",
+      desc: "Coming soon.",
       tags: [],
     },
   ];

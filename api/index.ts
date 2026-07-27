@@ -1,4 +1,4 @@
-import server from '../dist/server/server.js';
+import server from '../src/server.ts';
 
 const app = server.default ?? server;
 
